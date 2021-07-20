@@ -7,10 +7,10 @@ This is the second challenge of the Rocketseat Ignite course.
 In this challenge, we had to develop the following tasks:
 
 - Create an useCart hook to control products from a cart
- - add new product
- - remove product from cart
- - increase quantity, sub-total and total
- - decrease quantity, sub-total and total
+  - add new product
+  - remove product from cart
+  - increase quantity, sub-total and total
+  - decrease quantity, sub-total and total
 
 <p align="center">
   <a><img src="./screenshots/home.png" alt="List of available products"></a>
